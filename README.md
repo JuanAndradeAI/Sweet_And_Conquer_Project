@@ -43,4 +43,5 @@ Air Nomads: 90 fruits
 ## 🧠 Learning Outcomes
 - Strengthened understanding of OOP and modular code structure.  
 - Improved code readability, documentation, and logical reasoning.  
-- Gained hands-on experience using GitHub for code sharing and collaboration. 
+- Gained hands-on experience using GitHub for code sharing and collaboration.  
+
