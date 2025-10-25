@@ -28,6 +28,13 @@ Developed as part of the **AI & Machine Learning Developer Program** at [IT-Hög
 
 ---
 
+## 🧠 Learning Outcomes
+- Strengthened understanding of OOP and modular code structure.  
+- Improved code readability, documentation, and logical reasoning.  
+- Gained hands-on experience using GitHub for code sharing and collaboration.
+
+---
+
 ## 📊 Example Output
 ```python
 Fire Nation stole 30 apples from Earth Kingdom 🍎  
