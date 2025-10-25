@@ -31,15 +31,13 @@ Developed as part of the **AI & Machine Learning Developer Program** at [IT-Hög
 ## 📊 Example Output
 ```python
 Fire Nation stole 30 apples from Earth Kingdom 🍎  
-Water Tribe lost 10 bananas to Air Nomads 🍌 ``` 
+Water Tribe lost 10 bananas to Air Nomads 🍌
 
 Final Results:
 Fire Nation: 120 fruits  
 Earth Kingdom: 85 fruits  
 Water Tribe: 70 fruits  
-Air Nomads: 90 fruits```
-
----
+Air Nomads: 90 fruits
 
 
 
