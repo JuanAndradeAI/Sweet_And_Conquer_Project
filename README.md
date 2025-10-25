@@ -1,6 +1,6 @@
 # 🍎 Sweet & Conquer (Python, 2025)
 
-A simulation-based Python project designed to model the "Apple Wars" — a conflict between the **Fire Nation, Earth Kingdom, Water Tribe**, and **Air Nomads**.  
+A simulation-based Python project designed to model the "Apple Wars" — a conflict between the **Fire Nation**, **Earth Kingdom**, **Water Tribe**, and **Air Nomads**.  
 Each faction competes to collect and steal fruits using Object-Oriented Programming (OOP) principles.
 
 Developed as part of the **AI & Machine Learning Developer Program** at [IT-Högskolan](https://www.iths.se/), Stockholm.
@@ -9,7 +9,7 @@ Developed as part of the **AI & Machine Learning Developer Program** at [IT-Hög
 
 ## 🎯 Project Overview
 - Implements **Classes**, **Methods**, and **Objects** to simulate faction interactions.  
-- Focus on **encapsulation**, **inheritance**, and **polymorphism**.  
+- Focus on **Encapsulation**, **Inheritance**, and **Polymorphism**.  
 - Includes randomness, conditional logic, and iterative updates to model the conflict dynamics.  
 
 ---
@@ -31,17 +31,19 @@ Developed as part of the **AI & Machine Learning Developer Program** at [IT-Hög
 ## 📊 Example Output
 ```python
 Fire Nation stole 30 apples from Earth Kingdom 🍎  
-Water Tribe lost 10 bananas to Air Nomads 🍌  
+Water Tribe lost 10 bananas to Air Nomads 🍌 ``` 
+
 Final Results:
 Fire Nation: 120 fruits  
 Earth Kingdom: 85 fruits  
 Water Tribe: 70 fruits  
-Air Nomads: 90 fruits
+Air Nomads: 90 fruits```
 
 ---
 
-## 🧠 Learning Outcomes
-- Strengthened understanding of OOP and modular code structure.  
-- Improved code readability, documentation, and logical reasoning.  
-- Gained hands-on experience using GitHub for code sharing and collaboration.  
+
+
+
+
+
 
